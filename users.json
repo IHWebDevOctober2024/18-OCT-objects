@@ -1,0 +1,122 @@
+[
+  {
+    "name": "John",
+    "surname": "Doe",
+    "hobbies": ["reading", "swimming"],
+    "isAdmin": false
+  },
+  {
+    "name": "Jane",
+    "surname": "Smith",
+    "hobbies": ["painting", "cycling"],
+    "isAdmin": true
+  },
+  {
+    "name": "Michael",
+    "surname": "Johnson",
+    "hobbies": ["running", "gaming"],
+    "isAdmin": false
+  },
+  {
+    "name": "Emily",
+    "surname": "Davis",
+    "hobbies": ["dancing", "cooking"],
+    "isAdmin": true
+  },
+  {
+    "name": "David",
+    "surname": "Brown",
+    "hobbies": ["hiking", "photography"],
+    "isAdmin": false
+  },
+  {
+    "name": "Sarah",
+    "surname": "Wilson",
+    "hobbies": ["writing", "yoga"],
+    "isAdmin": true
+  },
+  {
+    "name": "James",
+    "surname": "Taylor",
+    "hobbies": ["fishing", "gardening"],
+    "isAdmin": false
+  },
+  {
+    "name": "Laura",
+    "surname": "Anderson",
+    "hobbies": ["knitting", "traveling"],
+    "isAdmin": true
+  },
+  {
+    "name": "Robert",
+    "surname": "Thomas",
+    "hobbies": ["woodworking", "skiing"],
+    "isAdmin": false
+  },
+  {
+    "name": "Linda",
+    "surname": "Jackson",
+    "hobbies": ["sewing", "baking"],
+    "isAdmin": true
+  },
+  {
+    "name": "William",
+    "surname": "White",
+    "hobbies": ["surfing", "drawing"],
+    "isAdmin": false
+  },
+  {
+    "name": "Barbara",
+    "surname": "Harris",
+    "hobbies": ["singing", "running"],
+    "isAdmin": true
+  },
+  {
+    "name": "Richard",
+    "surname": "Martin",
+    "hobbies": ["cycling", "reading"],
+    "isAdmin": false
+  },
+  {
+    "name": "Susan",
+    "surname": "Thompson",
+    "hobbies": ["swimming", "painting"],
+    "isAdmin": true
+  },
+  {
+    "name": "Joseph",
+    "surname": "Garcia",
+    "hobbies": ["gaming", "hiking"],
+    "isAdmin": false
+  },
+  {
+    "name": "Jessica",
+    "surname": "Martinez",
+    "hobbies": ["cooking", "dancing"],
+    "isAdmin": true
+  },
+  {
+    "name": "Charles",
+    "surname": "Robinson",
+    "hobbies": ["photography", "writing"],
+    "isAdmin": false
+  },
+  {
+    "name": "Karen",
+    "surname": "Clark",
+    "hobbies": ["yoga", "fishing"],
+    "isAdmin": true
+  },
+  {
+    "name": "Daniel",
+    "surname": "Rodriguez",
+    "hobbies": ["gardening", "knitting"],
+    "isAdmin": false
+  },
+  {
+    "name": "Nancy",
+    "surname": "Lewis",
+    "hobbies": ["traveling", "woodworking"],
+    "isAdmin": true
+  }
+]
